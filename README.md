@@ -1,2 +1,1 @@
 # OIBGRIP
-Online Reservation System
